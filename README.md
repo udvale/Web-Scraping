@@ -1,9 +1,9 @@
 # Web Scraping Project: Job Posting Analysis 
 ## 1. Objective:
 This web scraping project was undertaken as part of, DATA200 - Data Systems for Data Analytics, course curriculum. 
-   _Task: Scrape data from a job search website_
-  _Website: Indeed.com_
-   _Objective: Collect job postings that match certain keywords and location filters, and then perform data analysis to extract insights about the job market_
+   * _Task: Scrape data from a job search website_
+   * _Website: Indeed.com_
+   * _Objective: Collect job postings that match certain keywords and location filters, and then perform data analysis to extract insights about the job market_
 ## 2. Methodology:
    - #### Data Collection:
      - Utilized Selenium and Python for web scraping job postings from Indeed.com.
